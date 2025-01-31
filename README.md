@@ -1,0 +1,4 @@
+- Hello, I'm @Ulliverus
+- I'm interested in programming own games
+- I am rather inexperienced
+- I code with GDevelop
